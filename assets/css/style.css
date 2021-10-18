@@ -1607,27 +1607,40 @@ footer .copyright p {
 
 .SnowLeopards {
     height: 700px;
-    background-image: url(../images/team1.jpeg);
+    background-image: url(../images/snow-leapords.jpeg);
     background-repeat: no-repeat;
     background-size: 500px 600px;
     background-position: center center;
 }
 .nocturnalbats {
     height: 700px;
-    background-image: url(../images/team3.jpeg);
+    background-image: url(../images/nacturnal.jpeg);
     background-repeat: no-repeat;
     background-size: 500px 600px;
     background-position: center center;
 }
 
-.dubaitigers {
+.greywolf {
     height: 700px;
-    background-image: url(../images/team2.jpeg);
+    background-image: url(../images/grey-wolf.jpeg);
     background-repeat: no-repeat;
     background-size: 500px 600px;
     background-position: center center;
 }
-
+.markhor {
+    height: 700px;
+    background-image: url(../images/markhor.jpeg);
+    background-repeat: no-repeat;
+    background-size: 500px 600px;
+    background-position: center center;
+}
+.viper {
+    height: 700px;
+    background-image: url(../images/viper.jpeg);
+    background-repeat: no-repeat;
+    background-size: 500px 600px;
+    background-position: center center;
+}
 .playerSection,
 .partnerSection,
 .sponsorSection,
