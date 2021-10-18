@@ -1605,6 +1605,13 @@ footer .copyright p {
     background-position: center center;
 }
 
+.karachilion {
+    height: 700px;
+    background-image: url(../images/karachilion.png);
+    background-repeat: no-repeat;
+    background-size: 500px 600px;
+    background-position: center center;
+}
 .SnowLeopards {
     height: 700px;
     background-image: url(../images/snow-leapords.jpeg);
